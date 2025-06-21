@@ -78,6 +78,45 @@
         ]
     },
     {
+        "component_name": "Pouch",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "0c1c9bf3",
+        "position_vb": "1e5cafee",
+        "blend_vb": "0a0aa1a8",
+        "texcoord_vb": "06f42a6f",
+        "ib": "e7f527ea",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e590e6be"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a78880dc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4a0b4014"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",
