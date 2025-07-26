@@ -1,0 +1,260 @@
+[
+    {
+        "component_name": "Face",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "1542fac0",
+        "position_vb": "2f506987",
+        "blend_vb": "e95469bb",
+        "texcoord_vb": "59602680",
+        "ib": "70ba12eb",
+        "object_indexes": [
+            0,
+            7176,
+            9582
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "703de17f"
+                ]
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d41106e6",
+        "position_vb": "4307c5fc",
+        "blend_vb": "92e4de2a",
+        "texcoord_vb": "d651eea3",
+        "ib": "da0f86fd",
+        "object_indexes": [
+            0,
+            33831
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "423f0185"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7e981836"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cc545fa6"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d4b12374",
+        "position_vb": "a8884726",
+        "blend_vb": "5ecf2356",
+        "texcoord_vb": "9e2626ae",
+        "ib": "65129777",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a48c1324"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0fefdd7a"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4e8a5474"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Legs",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "96f68d9d",
+        "position_vb": "b2c8a4ef",
+        "blend_vb": "a589ee42",
+        "texcoord_vb": "c0866972",
+        "ib": "ed6baa51",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8ada9498"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a9ae84df"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "867ceb5b"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Tail",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "fea2bd55",
+        "position_vb": "f4a39978",
+        "blend_vb": "203664d5",
+        "texcoord_vb": "f33946ec",
+        "ib": "3766fa59",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "92c6b20b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cb65982e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "GunHead",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "27b14e70",
+        "position_vb": "aeeebb95",
+        "blend_vb": "6fba1f7b",
+        "texcoord_vb": "5662dd65",
+        "ib": "389256d8",
+        "object_indexes": [
+            0,
+            4665
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "GunBody",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "49393f27",
+        "position_vb": "160ccb43",
+        "blend_vb": "17077e99",
+        "texcoord_vb": "43b63f81",
+        "ib": "2935f885",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "GunEyes",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "7ed93255",
+        "position_vb": "44cba112",
+        "blend_vb": "53454b5b",
+        "texcoord_vb": "f88df348",
+        "ib": "e63d22c3",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
