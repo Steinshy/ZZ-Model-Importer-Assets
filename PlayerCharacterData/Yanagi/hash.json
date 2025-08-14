@@ -157,11 +157,11 @@
     },
     {
         "component_name": "Face",
-        "root_vs": "",
-        "draw_vb": "",
-        "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "47323770",
+        "position_vb": "7d20a437",
+        "blend_vb": "4cb3e0ea",
+        "texcoord_vb": "69c75b70",
         "ib": "0817204c",
         "object_indexes": [
             0,
@@ -179,6 +179,63 @@
                     "95d9e92e"
                 ]
             ],
+            []
+        ]
+    },
+    {
+        "component_name": "Weapon1",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b680db32",
+        "position_vb": "03634f2c",
+        "blend_vb": "14b8daf0",
+        "texcoord_vb": "61f72721",
+        "ib": "2d7f2223",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b2aca818"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e4891108"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "240ee9dc"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Weapon2",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "9e8cddbf",
+        "position_vb": "a07928b5",
+        "blend_vb": "74491025",
+        "texcoord_vb": "c6d97eb4",
+        "ib": "27d49f0b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
             []
         ]
     }
